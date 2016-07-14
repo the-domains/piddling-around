@@ -1,14 +1,17 @@
-layout_spectrum: 0.7684630849398673
 typography_spectrum: 0.2762732489500195
+content_rating:
+  adult: false
 color:
   brandStrength: 0.18599254288710654
   lightness: 0.46453558234497905
   saturation: 0.4065460816491395
   rhythmicContrast: 0.04249857668764889
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.7684630849398673
 name: Piddling Around
+title: ...what we do when we're not working.
